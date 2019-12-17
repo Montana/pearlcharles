@@ -4,7 +4,7 @@
 
 This is the private repo of Pearl Charles's website in React. Currently waiting on her assets. Will push what I've done though. I didn't use create-react-app as I'm using WebStorm, so instead of having conventional directory tree "src, public" it will just be the components themselves, until we start working together and can start doing unified pushes and ```git diffs```.  
 
-# Team StyleGuide 
+# Team Styleguide 
 
 Instead of using this 
 ```javascript
@@ -66,12 +66,12 @@ As it's most resusable friendly, and not as messy as fetch. We can discuss this 
 
 ## Conclusion 
 
-This should be a pretty straight forward SPA, in the essence there's not many moving parts. Maybe a few API requests here and there, but I don't see anything complicated when it comes to State. 
+This should be a pretty straight forward SPA, in the essence there's not many moving parts. Maybe a few API requests here and there, but I don't see anything complicated when it comes to ```State```. 
 
-## Author 
+## Author of README.md 
 Written by Montana Mendy. 
 
-# Credits 
+# Credits for pushing/building site
  
 * Travis Allen (travis@stdlibs.com)
 * Montana Mendy (montana@stdlibs.com)
