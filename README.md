@@ -40,7 +40,7 @@ const DEFAULT_QUERY = 'redux';
 ``` 
 Ideally I'd like to use ```Axios``` 
 
-```javascipt
+```javascript
 componentDidMount() {
   axios
     .get("https://randomuser.me/api/?results=5")
