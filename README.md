@@ -2,7 +2,7 @@
 
 ![Image description](pearlcharles.png)
 
-This is the private repo of Pearl Charles's website in React. Currently waiting on her assets. Will push what I've done though. I didn't use create-react-app as I'm using WebStorm, so instead of having conventional directory tree "src, public" it will just be the components themselves, until we start working together and can start doing unified pushes and ```git diffs```.  
+This is the repo of Pearl Charles's website in React. I will push what I've done incrementally. I didn't use ```create-react-app``` as I'm using WebStorm, so instead of having the conventional directory tree "src, public" it will just be the components themselves, until we start working together and can start doing unified pushes and looking at our ```git diffs```.  
 
 # Team Styleguide 
 
@@ -31,7 +31,7 @@ class App extends React.Component {
 
 # TypeOf 
 
-This will be probably a SPA (single page application), as most artists pages are. There may be some authentication e.g. (ticketmaster, using some API's for information on upcoming show) but this can easily be resolved by using Axios, or Redux. It would look something similar to this 
+This will probably be a SPA (single page application), as most artists pages are. There may be some authentication e.g. (ticketmaster, using some API's for information on upcoming show) but this can easily be resolved by using Axios, or Redux. It would look something similar to this 
 
 ```javascript
 import React from 'react';
