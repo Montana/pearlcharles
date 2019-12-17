@@ -75,4 +75,3 @@ Written by Montana Mendy.
  
 * Travis Allen (travis@stdlibs.com)
 * Montana Mendy (montana@stdlibs.com)
-* Xavier Touikan (xavier@stdlibs.com)
