@@ -24,7 +24,7 @@ export default class MusicPlayer extends React.Component {
             <Grid id='music'>
                 <Row>
                     <Col xs={12} sm={12}>
-                        <h1>Albums/EP's</h1>
+                        <h1>Music</h1>
                     </Col>
                     <Col xs={12} sm={6}>
                         <h3>Sweet Sunshine Wine <i>-Released May 3, 2019</i></h3>
