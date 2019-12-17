@@ -33,7 +33,7 @@ class App extends React.Component {
 
 This will be probably a SPA (single page application), as most artists pages are. There may be some authentication e.g. (ticketmaster, using some API's for information on upcoming show) but this can easily be resolved by using Axios, or Redux. It would look something similar to this 
 
-```javascipt
+```javascript
 import React from 'react';
 const API = 'https://hn.algolia.com/api/v1/search?query=';
 const DEFAULT_QUERY = 'redux';
@@ -68,7 +68,8 @@ As it's most resusable friendly, and not as messy as fetch. We can discuss this 
 
 This should be a pretty straight forward SPA, in the essence there's not many moving parts. Maybe a few API requests here and there, but I don't see anything complicated when it comes to State. 
 
-- Montana Mendy. 
+## Author 
+Written by Montana Mendy. 
 
 # Credits 
  
