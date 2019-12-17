@@ -29,13 +29,13 @@ export default class MusicPlayer extends React.Component {
                     <Col xs={12} sm={6}>
                         <h3>Sweet Sunshine Wine <i>-Released May 3, 2019</i></h3>
                         <iframe style={style} src={PearlCharles.sunshinewine} seamless>
-                            <a href='https://pearlcharlesmusic.bandcamp.com/'>Sweet Sunshine Wine</a>
+                            <a href='https://pearlcharlesmusic.bandcamp.com'>Sweet Sunshine Wine</a>
                         </iframe>
                     </Col>
                     <Col xs={12} sm={6}>
                         <h3>Sleepless Dreamer <i>- Released Februrary 2, 2018</i></h3>
                         <iframe style={style} src={PearlCharles.sleeplessdreamer} seamless>
-                            <a href='https://pearlcharlesmusic.bandcamp.com/album/sleepless-dreamer/'>Sleepless Dreamer</a>
+                            <a href='https://pearlcharlesmusic.bandcamp.com/album/sleepless-dreamer'>Sleepless Dreamer</a>
                         </iframe>
                     </Col>
                 </Row>
