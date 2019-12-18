@@ -1,6 +1,6 @@
 "use-strict";
 
-// only usuing this on Pearl Charles project via I want warnings about deprecated findDOMNode usage (via Montana Mendy, MDN) 
+// using 'use-strict' in this case on Pearl Charles project via I want warnings about deprecated findDOMNode usage (via Montana Mendy, MDN) 
 
 import React from "react";
 import { Jumbotron } from "react-bootstrap";
