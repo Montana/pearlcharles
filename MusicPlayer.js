@@ -15,7 +15,9 @@ const style = {
     height: '700px'
 };
 
-export default class MusicPlayer extends React.Component {
+export default 
+
+class MusicPlayer extends React.Component {
 
     render() {
 
