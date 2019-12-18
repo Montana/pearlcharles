@@ -1,5 +1,7 @@
 "use-strict";
 
+// only usuing this on Pearl Charles project via I want warnings about deprecated findDOMNode usage (via Montana Mendy, MDN) 
+
 import React from "react";
 import { Jumbotron } from "react-bootstrap";
 import ScrollLite from "./ScrollLite.jsx";
@@ -29,7 +31,7 @@ const styles = {
   }
 };
 
-export default class Hero extends React.Component {
+class Hero extends React.Component {
   render() {
     return (
       <Jumbotron style={styles.hero} id="top">
@@ -47,3 +49,5 @@ export default class Hero extends React.Component {
     );
   }
 }
+
+export default Hero;
