@@ -3,7 +3,7 @@
 import React from 'react';
 import Instafeed from 'instafeed.js';
 
-export default class Instagram extends React.Component {
+class Instagram extends React.Component {
 
     componentDidMount() {
 
@@ -27,3 +27,5 @@ export default class Instagram extends React.Component {
         );
     }
 }
+
+export default Instagram; 
